@@ -25,7 +25,7 @@ import (
 	"appengine/user"
 	"appengine_internal"
 	"github.com/MiniProfiler/go/miniprofiler"
-	"github.com/mjibson/appstats"
+	"github.com/crmaxx/appstats"
 )
 
 func init() {
